@@ -1,0 +1,6 @@
+{
+  "name": "SpecPlan QA",
+  "description": "Asistente paso a paso para redactar y exportar Planes de Prueba en Markdown y PDF bajo los estándares ISO/IEC/IEEE 29119-3 e IEEE 829.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
